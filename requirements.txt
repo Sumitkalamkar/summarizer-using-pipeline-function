@@ -1,4 +1,5 @@
-transformers
-torch
-keras>=3.0.0
+streamlit==1.24.0
 tensorflow==2.17.0
+tf-keras
+transformers==4.44.0
+
